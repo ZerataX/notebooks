@@ -6,4 +6,5 @@ dependencies:
   - xtensor=0.20.8
   - xtensor-blas=0.16.1
   - notebook
-  - git+https://github.com/impossiblynew/davar
+  - pip:
+    - git+https://github.com/impossiblynew/davar
