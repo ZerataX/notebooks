@@ -2,11 +2,12 @@ name: xeus-cling
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.8
+  - pip=20.1.1
   - numpy
   - matplotlib
   - pandas
-  - xeus-cling=0.8.0
+  - xeus-cling=0.8.1
   - xtensor=0.20.8
   - xtensor-blas=0.16.1
   - notebook
